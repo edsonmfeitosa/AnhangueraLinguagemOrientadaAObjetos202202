@@ -20,5 +20,12 @@ public class Variaveis {
         char ch = 'a';
         boolean bo = 6 > 8;
         System.out.println(bo);
+        
+        //inferência de tipos
+        var x = 10;
+        int y;
+        y = 10;
+        x = 10;
+        System.out.println(x);
     }
 }
