@@ -1,4 +1,4 @@
-package poo.Lista01;
+ package poo.Lista01;
 
 public class Pessoa {
     private String cpf;
